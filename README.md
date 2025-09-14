@@ -17,4 +17,9 @@ The dashboard is designed for **management** to track the performance, identify 
     - **UK Train Station Dataset** (Simulated 32,000 customers transaction ID)
    
       ## Dashboard Preview
-    
+    !(UK Train Station Project)[Dashboard.png]
+
+    ## Authur
+    **Surajudeen Ishola**
+
+  
