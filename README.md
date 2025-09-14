@@ -22,4 +22,8 @@ The dashboard is designed for **management** to track the performance, identify 
     ## Authur
     **Surajudeen Ishola**
 
+    ## Linkedin
+   !(www.linkedin.com/in/surajudeen-ishola-2b8715195)
+
+
   
